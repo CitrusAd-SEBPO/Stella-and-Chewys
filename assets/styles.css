@@ -156,13 +156,8 @@ body {
   padding: 0;
 }
 /*----------------------------------- responsive styling------------------------------------- */
-@media all and (min-width: 2060px) {
-  #citrusStella__hero {
-    background-image: url(images/stella-chews-POV-Desktop2.png);
-    height: 300px;
-  }
-}
-@media all and (min-width: 1441px) and (max-width: 2059px) {
+
+@media all and (min-width: 1441px) {
   #citrusStella__hero {
     background-image: url(images/stella-chews-POV-Desktop1.png);
     min-height: 280px;
@@ -171,6 +166,12 @@ body {
     width: 1384px;
     max-width: 100%;
     margin: auto;
+  }
+}
+@media all and (min-width: 2060px) {
+  #citrusStella__hero {
+    background-image: url(images/stella-chews-POV-Desktop2.png);
+    height: 300px;
   }
 }
 @media all and (min-width: 1201px) and (max-width: 1350px) {

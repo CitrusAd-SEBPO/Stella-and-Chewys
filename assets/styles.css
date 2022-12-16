@@ -173,6 +173,9 @@ body {
     background-image: url(images/stella-chews-POV-Desktop2.png);
     height: 300px;
   }
+  .citrusStella__heroContainer {
+    padding-right: 5%;
+  }
 }
 @media all and (min-width: 1201px) and (max-width: 1350px) {
   #citrusStella__hero .logo {

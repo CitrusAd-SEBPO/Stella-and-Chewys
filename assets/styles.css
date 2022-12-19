@@ -38,6 +38,10 @@ body {
 .citrusStella_mobile__hide {
   display: block;
 }
+.citrusStella__wrapper{
+  max-width: 1440px;
+  margin: 0 auto;
+}
 .citrusStella__wrapper a {
   text-decoration: none;
 }
